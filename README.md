@@ -28,4 +28,4 @@ Get-FileHash -Algorithm SHA256 '.\CAD残留清理工具.exe'
 
 ## 许可
 
-提供的文件未附许可证，本仓库不擅自授予开源或再分发许可。相关权利归原权利人所有。
+本仓库采用 PolyForm Noncommercial License 1.0.0（非商业许可）。相关权利归原权利人所有。
